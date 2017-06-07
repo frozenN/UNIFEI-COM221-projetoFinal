@@ -4,8 +4,8 @@ Repositório para o desenvolvimento do projeto final da disciplina COM 221 - Com
 # Task List
 - [x] Diagrama de Caso de uso e tabelas
 - [x] Diagrama de Classes
-- [x] Diagrama de Objetos ( Alguns Diagramas de Objetos )
-- [x] Diagrama de Sequência ( Um para cada caso de uso )
+- [ ] Diagrama de Objetos ( Alguns Diagramas de Objetos )
+- [ ] Diagrama de Sequência ( Um para cada caso de uso )
 - [ ] Diagrama de Comunicação ( Um para cada caso de uso )
 - [ ] Diagrama de Estados ( Diferentes estados na geração de uma carta linguística )
 - [ ] Diagrama de Atividades ( Igual o de cima ) 
